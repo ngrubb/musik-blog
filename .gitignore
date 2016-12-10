@@ -1,0 +1,13 @@
+# vagrant
+.vagrant
+
+# annoying mac deal
+.DS_Store
+
+# wordpress bulk
+/public/wp-content/cache
+/public/wp-content/uploads
+/public/wp-content/upgrade
+
+
+
